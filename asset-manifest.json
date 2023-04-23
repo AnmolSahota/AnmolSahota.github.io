@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.d436859a.js",
+    "main.css": "/static/css/main.27d72a90.css",
+    "main.js": "/static/js/main.9a7dbab4.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Skill.jpg": "/static/media/Skill.f8bc85312ba0262a3a24.jpg",
+    "static/media/Ezyshop.png": "/static/media/Ezyshop.fc0bf50adf3fc3d604cf.png",
+    "static/media/Beauty.png": "/static/media/Beauty.a7038f88b7a149da003b.png",
+    "static/media/Anthro.png": "/static/media/Anthro.c0b4e5a208f164c25786.png",
+    "static/media/Anmol_Sahota_Resume.pdf": "/static/media/Anmol_Sahota_Resume.62859f767c0d3765ee84.pdf",
+    "static/media/Mine.jpg": "/static/media/Mine.34b82efe1c19afdb1f7d.jpg",
+    "static/media/about.svg": "/static/media/about.fcd5f18ce5007375f7f31eaad46ce0f6.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.d436859a.js.map": "/static/js/main.d436859a.js.map",
+    "main.27d72a90.css.map": "/static/css/main.27d72a90.css.map",
+    "main.9a7dbab4.js.map": "/static/js/main.9a7dbab4.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d436859a.js"
+    "static/css/main.27d72a90.css",
+    "static/js/main.9a7dbab4.js"
   ]
 }
