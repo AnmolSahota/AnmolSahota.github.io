@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9e51ff20.css",
-    "main.js": "/static/js/main.fef79b6d.js",
+    "main.js": "/static/js/main.c15beaec.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Skill.jpg": "/static/media/Skill.f8bc85312ba0262a3a24.jpg",
     "static/media/Ezyshop.png": "/static/media/Ezyshop.fc0bf50adf3fc3d604cf.png",
@@ -13,11 +13,11 @@
     "static/media/about.svg": "/static/media/about.fcd5f18ce5007375f7f31eaad46ce0f6.svg",
     "index.html": "/index.html",
     "main.9e51ff20.css.map": "/static/css/main.9e51ff20.css.map",
-    "main.fef79b6d.js.map": "/static/js/main.fef79b6d.js.map",
+    "main.c15beaec.js.map": "/static/js/main.c15beaec.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e51ff20.css",
-    "static/js/main.fef79b6d.js"
+    "static/js/main.c15beaec.js"
   ]
 }
