@@ -1,0 +1,164 @@
+/* html {
+  scroll-behavior: smooth;
+} */
+
+#nav-menu {
+  top: 0px;
+  position: sticky;
+  z-index: 100;
+}
+.navbar {
+  line-height: 45px;
+}
+
+#nav-menu > a:hover {
+  color: #f56565;
+  text-decoration: underline;
+}
+
+#img {
+  height: 300px;
+  width: 200px;
+  border-radius: 30px;
+  display: block;
+  margin: auto;
+}
+.title {
+  font-size: 22px;
+  margin: 10px 0px;
+  font-weight: 600;
+}
+.des {
+  font-size: 16px;
+  font-weight: 450;
+  color: #718079;
+}
+.two {
+  /* border: 1px solid goldenrod; */
+  /* margin: 10px 0px; */
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  background-color: #265889;
+  font-size: 13px;
+  font-weight: 600;
+  color: white;
+}
+
+.rest {
+  /* border: 1px solid teal; */
+  /* margin: 10px 0px; */
+  margin-bottom: 10px;
+  margin-right: 10px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  background-color: #266467;
+  font-size: 13px;
+  font-weight: 600;
+  color: white;
+}
+
+.github {
+  /* border: 1px solid teal; */
+  padding: 4px 10px;
+  border-radius: 6px;
+  margin-right: 10px;
+  cursor: pointer;
+  background-color: #4299e1;
+  color: white;
+  font-size: 13px;
+  font-weight: 600;
+}
+.github:hover {
+  background-color: #1989e6;
+}
+.live {
+  margin-right: 10px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #3c3e46;
+  color: white;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.live:hover {
+  background-color: #95969b;
+}
+.link {
+  font-size: 13px;
+  margin-left: 5px;
+}
+.box {
+  padding-left: 10px;
+  position: relative;
+  top: -8px;
+}
+.imgskill {
+  height: 27px;
+  width: 27px;
+}
+.skillitem {
+  /* border-bottom: 1px solid #718079; */
+  width: 135px;
+  /* width: 100%; */
+  padding: 10px 0px;
+}
+.bug {
+  border-bottom: 1px solid #718079;
+  /* width: 135px; */
+  /* width: 85%; */
+  padding: 4.8px 0px;
+}
+.contactfirst {
+  margin: 10px 0px;
+}
+.contactpad {
+  margin-left: 10px;
+  display: inline-block;
+  position: relative;
+  top: -8px;
+}
+.label {
+  margin: 5px 0px;
+}
+.contactbtn {
+  margin: 5px 0px;
+}
+
+.form {
+  background-color: #2d3748;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  border-radius: 10px;
+}
+/* .form input,
+.form textarea {
+  width: 70%;
+  display: block;
+} */
+
+.rest:hover {
+  background-color: #10b1b9;
+  cursor: pointer;
+}
+.two:hover {
+  cursor: pointer;
+  background-color: #4299e1;
+}
+.github:hover {
+  /* background-color: #4299e1; */
+  cursor: pointer;
+}
+.live:hover {
+  background-color: #4d4e55;
+  cursor: pointer;
+}
+.contactpad:hover {
+  color: teal;
+}
