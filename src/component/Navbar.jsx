@@ -109,7 +109,7 @@ const Navbar = () => {
                     className="nav-link resume"
                     onClick={() =>
                       window.open(
-                        "https://drive.google.com/file/d/1aeaA7bnuciVDCmLAsO4K0IPNcUFX02gx/view?usp=sharing"
+                        "https://drive.google.com/file/d/1KRwcB_ihSyFaEw4u7n-7PZZ1dDLzctjr/view?usp=drive_link"
                       )
                     }
                     target="_blank"
@@ -172,7 +172,7 @@ const Navbar = () => {
                         <a
                           onClick={() =>
                             window.open(
-                              "https://drive.google.com/file/d/1aeaA7bnuciVDCmLAsO4K0IPNcUFX02gx/view?usp=sharing"
+                              "https://drive.google.com/file/d/1KRwcB_ihSyFaEw4u7n-7PZZ1dDLzctjr/view?usp=drive_link"
                             )
                           }
                           target="_blank"
