@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b051cc1b.css",
-    "main.js": "/static/js/main.f19cfbae.js",
+    "main.js": "/static/js/main.fd9a13ac.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Skill.jpg": "/static/media/Skill.f8bc85312ba0262a3a24.jpg",
     "static/media/Ezyshop.png": "/static/media/Ezyshop.fc0bf50adf3fc3d604cf.png",
@@ -12,13 +12,14 @@
     "static/media/As_Logo.png": "/static/media/As_Logo.9036eab00722aed652b6.png",
     "static/media/Mine.jpg": "/static/media/Mine.34b82efe1c19afdb1f7d.jpg",
     "static/media/about.svg": "/static/media/about.fcd5f18ce5007375f7f31eaad46ce0f6.svg",
+    "static/media/gmail.png": "/static/media/gmail.a2f2146f929409405da0.png",
     "index.html": "/index.html",
     "main.b051cc1b.css.map": "/static/css/main.b051cc1b.css.map",
-    "main.f19cfbae.js.map": "/static/js/main.f19cfbae.js.map",
+    "main.fd9a13ac.js.map": "/static/js/main.fd9a13ac.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b051cc1b.css",
-    "static/js/main.f19cfbae.js"
+    "static/js/main.fd9a13ac.js"
   ]
 }
